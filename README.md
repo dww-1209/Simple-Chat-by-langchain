@@ -10,6 +10,7 @@
 ## 2. 运行
 
 若没有uv需自行下载
+https://docs.astral.sh/uv/guides/install-python/
 
 ```bash
 uv run python main.py
